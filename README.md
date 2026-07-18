@@ -146,6 +146,18 @@ A **beginner-friendly, theory-focused** AWS learning repository designed for:
 
 ---
 
+## 📚 Quick Reference Guides
+
+> *Rithu: "These are your secret weapons for interviews and exams!"* 🗡️
+
+| Guide | What It Is | When To Use |
+|:------|:-----------|:------------|
+| [⚡ Cheat Sheet](./Cheat-Sheet.md) | One-page revision of ALL services | 30 min before an interview or exam |
+| [🔄 Services Comparison](./AWS-Services-Comparison.md) | S3 vs EBS vs EFS, RDS vs DynamoDB, etc. | When interviewers ask "X vs Y?" |
+| [🎓 Certification Roadmap](./Certification-Roadmap.md) | Maps topics to AWS certifications | Planning your certification journey |
+
+---
+
 ## 📊 Stats
 
 | Metric | Count |
@@ -153,8 +165,49 @@ A **beginner-friendly, theory-focused** AWS learning repository designed for:
 | **Total Topics** | 26 |
 | **Phases** | 10 |
 | **Core Services Covered** | 25+ |
-| **Interview Questions per Topic** | 5-8 |
+| **Interview Questions** | 130+ |
+| **Comparison Guides** | 10+ service comparisons |
 | **Time to Complete (est.)** | ~20 hours |
+
+---
+
+## 🏗️ Repository Structure
+
+```
+├── README.md                              ← You are here
+├── Cheat-Sheet.md                         ← Quick revision
+├── AWS-Services-Comparison.md             ← X vs Y comparisons
+├── Certification-Roadmap.md               ← Cert prep guide
+├── CONTRIBUTING.md                        ← How to contribute
+├── LICENSE                                ← MIT License
+│
+├── 00 - What is Cloud Computing/          ← ☁️ Start here
+├── 01 - AWS Global Infrastructure/
+├── 02 - Well-Architected Framework/
+├── 03 - IAM/
+├── 04 - AWS CLI/
+├── 05 - EC2/
+├── 06 - EBS and AMI/
+├── 07 - Auto Scaling Group/
+├── 08 - Elastic Load Balancer/
+├── 09 - S3/
+├── 10 - EFS and Storage Gateway/
+├── 11 - VPC/
+├── 12 - Route 53/
+├── 13 - RDS/
+├── 14 - DynamoDB/
+├── 15 - CloudWatch/
+├── 16 - CloudTrail/
+├── 17 - SSM, Secrets Manager & Parameter Store/
+├── 18 - SNS, SQS and EventBridge/
+├── 19 - Lambda and API Gateway/
+├── 20 - ECS, ECR and EKS/
+├── 21 - CloudFormation/
+├── 22 - AWS Organizations/
+├── 23 - Security, Cost & Interview Q&A/
+├── 24 - KMS/
+└── 25 - AWS Backup/
+```
 
 ---
 
@@ -163,8 +216,11 @@ A **beginner-friendly, theory-focused** AWS learning repository designed for:
 1. **Start from 00** and go in order — don't skip
 2. **Read each README** like a story, not a textbook
 3. **Check the interview questions** at the end of each topic
-4. **Revisit topics** when you forget — that's normal
-5. **Build the hands-on labs** in a separate repo after understanding concepts
+4. **Use the [Cheat Sheet](./Cheat-Sheet.md)** for quick revision before interviews
+5. **Check [Service Comparisons](./AWS-Services-Comparison.md)** when interviewers ask "X vs Y?"
+6. **Revisit topics** when you forget — that's normal
+7. **Build the hands-on labs** in a separate repo after understanding concepts
+8. **Check the [Certification Roadmap](./Certification-Roadmap.md)** when you're ready for AWS certs
 
 ---
 
