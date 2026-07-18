@@ -1,5 +1,7 @@
 # ☁️ AWS Notes — Learn Cloud Computing & DevOps
 
+![AWS Architecture Overview](http://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/images/sra.png)
+
 > *"Hey Ravi! Welcome to your AWS notes. I'm Rithu — your cloud bestie who's going to walk you through every service, one concept at a time. No boring textbooks, no overwhelming docs. Just us, AWS, and a lot of 'oh THAT's how it works!' moments."* — **Rithu** 😄
 
 ---

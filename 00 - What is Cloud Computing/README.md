@@ -8,6 +8,14 @@
 
 ---
 
+## Cloud Computing Overview
+
+![AWS Cloud Computing](http://docs.aws.amazon.com/images/whitepapers/latest/how-aws-pricing-works/images/shared-pricing-model.png)
+
+> *Cloud computing provides on-demand access to computing resources over the internet.*
+
+---
+
 ## What is Cloud Computing?
 
 Cloud computing is **renting servers, storage, databases, and other tech resources over the internet** instead of buying and maintaining your own physical hardware.

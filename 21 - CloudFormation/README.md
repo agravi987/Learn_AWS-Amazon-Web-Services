@@ -12,7 +12,15 @@
 
 ---
 
-## 📖 What Is CloudFormation?
+## CloudFormation Architecture Overview
+
+![CloudFormation Architecture](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/images/concepts-stack-instance-set.png)
+
+> *CloudFormation templates define your infrastructure, and stacks are the running instances of those templates.*
+
+---
+
+## What Is CloudFormation?
 
 **AWS CloudFormation** is a service that lets you define and provision AWS infrastructure using **code** (YAML or JSON templates).
 

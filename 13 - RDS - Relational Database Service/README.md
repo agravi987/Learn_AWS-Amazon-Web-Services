@@ -8,6 +8,14 @@
 
 ---
 
+## RDS Architecture Overview
+
+![RDS Architecture](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/images/aws-cloud-deployment-architecture.png)
+
+> *A typical RDS deployment with Elastic Load Balancing, application servers, and DB instances across multiple Availability Zones.*
+
+---
+
 ## What is RDS?
 
 **Amazon RDS (Relational Database Service)** is a **managed relational database** service. AWS handles all the boring stuff — patching, backups, replication, and recovery — so you can focus on building your app.

@@ -8,6 +8,14 @@
 
 ---
 
+## Lambda Architecture Overview
+
+![Lambda Architecture](http://docs.aws.amazon.com/lambda/latest/dg/images/lambda-architecture.png)
+
+> *AWS Lambda runs your code in response to events and automatically manages the compute resources.*
+
+---
+
 ## What is Lambda?
 
 Hey Ravi! Imagine you could run code **without ever provisioning or managing servers**. No patching, no scaling, no 3 AM wake-up calls because a server crashed. That's **AWS Lambda**!

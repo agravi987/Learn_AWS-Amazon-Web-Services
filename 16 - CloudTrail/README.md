@@ -8,7 +8,15 @@
 
 ---
 
-## 🤔 What is CloudTrail?
+## CloudTrail Architecture Overview
+
+![CloudTrail Architecture](http://docs.aws.amazon.com/awscloudtrail/latest/userguide/images/ct-architecture.png)
+
+> *CloudTrail records API calls across your AWS account and delivers logs to S3 and CloudWatch Logs.*
+
+---
+
+## What is CloudTrail?
 
 Hey Ravi! So CloudWatch tells you *how your system is performing*, but what about **who's actually doing stuff** in your AWS account? That's where CloudTrail comes in!
 

@@ -30,7 +30,15 @@
 
 ---
 
-## 🌟 What is AWS Backup?
+## AWS Backup Architecture Overview
+
+![AWS Backup Architecture](http://docs.aws.amazon.com/aws-backup/latest/devguide/images/aws-backup-architecture.png)
+
+> *AWS Backup provides centralized backup management across multiple AWS services.*
+
+---
+
+## What is AWS Backup?
 
 **AWS Backup** is a **centralized backup service** that lets you automate and manage backups across multiple AWS services from a **single dashboard**.
 

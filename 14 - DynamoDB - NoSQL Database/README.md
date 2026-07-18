@@ -8,6 +8,14 @@
 
 ---
 
+## DynamoDB Global Tables
+
+![DynamoDB Global Tables](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/images/global-tables.png)
+
+> *DynamoDB Global Tables provide multi-active replication across multiple AWS Regions.*
+
+---
+
 ## What is DynamoDB?
 
 **Amazon DynamoDB** is a fully managed **NoSQL key-value and document database**. It's designed for:

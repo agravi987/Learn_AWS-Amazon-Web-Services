@@ -8,7 +8,15 @@
 
 ---
 
-## 🤔 What Are These Three Services?
+## Messaging Architecture Overview
+
+![SNS SQS Architecture](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/images/sqs-overview-of-how-it-works-diagram.png)
+
+> *How SNS and SQS work together for decoupled, event-driven architectures.*
+
+---
+
+## What Are These Three Services?
 
 Hey Ravi! When your apps need to **communicate with each other**, you don't want them calling each other directly (that's called **tight coupling** and it's bad!). Instead, you use **messaging services** as the middleman.
 

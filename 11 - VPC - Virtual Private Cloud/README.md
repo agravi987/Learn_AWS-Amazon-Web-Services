@@ -22,6 +22,14 @@
 
 ---
 
+## VPC Architecture Overview
+
+![VPC Architecture](http://docs.aws.amazon.com/vpc/latest/userguide/images/how-it-works.png)
+
+> *A VPC with an internet gateway and subnets in three Availability Zones.*
+
+---
+
 ## What is VPC?
 
 **VPC (Virtual Private Cloud)** is your **own isolated network** inside AWS. You get full control over:

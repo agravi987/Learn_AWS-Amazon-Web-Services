@@ -30,7 +30,15 @@
 
 ---
 
-## 🌟 What is KMS?
+## KMS Architecture Overview
+
+![KMS Architecture](http://docs.aws.amazon.com/kms/latest/developerguide/images/kms-architecture.png)
+
+> *AWS KMS manages encryption keys and integrates with dozens of AWS services.*
+
+---
+
+## What is KMS?
 
 **AWS KMS (Key Management Service)** is a managed service that lets you **create, store, rotate, and control** encryption keys used to encrypt your data.
 

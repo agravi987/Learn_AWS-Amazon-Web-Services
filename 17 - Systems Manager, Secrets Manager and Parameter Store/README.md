@@ -8,7 +8,15 @@
 
 ---
 
-## 🤔 What Are These Three Services?
+## Systems Manager Architecture Overview
+
+![Systems Manager Architecture](http://docs.aws.amazon.com/systems-manager/latest/userguide/images/systems-manager-architecture.png)
+
+> *AWS Systems Manager provides a unified user interface to track and resolve operational issues across your AWS applications and infrastructure.*
+
+---
+
+## What Are These Three Services?
 
 Hey Ravi! Today we're covering three services that solve two big problems: **managing servers at scale** and **keeping secrets safe**.
 

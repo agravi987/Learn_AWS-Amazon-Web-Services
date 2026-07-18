@@ -8,6 +8,14 @@
 
 ---
 
+## How Route 53 Routes Traffic
+
+![Route 53 DNS Resolution](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/images/how-route-53-routes-traffic.png)
+
+> *How the Domain Name System and Route 53 route internet traffic to your resources.*
+
+---
+
 ## What is Route 53?
 
 **Amazon Route 53** is AWS's **Domain Name System (DNS)** web service. The name comes from the DNS standard port **53**.

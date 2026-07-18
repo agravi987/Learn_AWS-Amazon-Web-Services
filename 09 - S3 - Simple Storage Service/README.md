@@ -6,6 +6,14 @@
 
 ---
 
+## S3 Data Consistency Model
+
+![S3 Strong Consistency](http://docs.aws.amazon.com/AmazonS3/latest/userguide/images/consistency1.png)
+
+> *S3 provides strong read-after-write consistency for PUT and DELETE requests.*
+
+---
+
 ## What is S3?
 
 Hey Ravi! Welcome to **Phase 3 — Storage**! Let's kick things off with one of the most fundamental AWS services: **Amazon S3 (Simple Storage Service)**.

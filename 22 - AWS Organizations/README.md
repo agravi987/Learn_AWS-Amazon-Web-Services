@@ -12,7 +12,15 @@
 
 ---
 
-## 📖 What Is AWS Organizations?
+## AWS Organizations Architecture Overview
+
+![AWS Organizations Architecture](http://docs.aws.amazon.com/organizations/latest/userguide/images/org-structure.png)
+
+> *AWS Organizations hierarchy with management account, OUs, and member accounts.*
+
+---
+
+## What Is AWS Organizations?
 
 **AWS Organizations** is a service that lets you **manage multiple AWS accounts** from a central place.
 

@@ -25,6 +25,14 @@
 
 ---
 
+## AWS Security Overview
+
+![AWS Security Reference Architecture](http://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/images/sra.png)
+
+> *AWS Security Reference Architecture showing the comprehensive security services and their relationships.*
+
+---
+
 ## What is AWS Security?
 
 AWS Security is a set of **practices, tools, and services** that protect your cloud resources from unauthorized access, data leaks, and attacks.

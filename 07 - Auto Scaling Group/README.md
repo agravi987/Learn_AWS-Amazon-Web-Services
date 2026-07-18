@@ -6,6 +6,14 @@
 
 ---
 
+## Auto Scaling Architecture Overview
+
+![Auto Scaling Group Architecture](http://docs.aws.amazon.com/autoscaling/latest/userguide/images/asg-overview.png)
+
+> *Auto Scaling Group automatically adjusts the number of EC2 instances based on demand.*
+
+---
+
 ## What is an Auto Scaling Group?
 
 Hey Ravi! Imagine running a restaurant. On Monday, you have 2 customers and 10 chefs standing idle 💸. On Friday, you have 100 customers and your 1 chef is drowning 🍳. Wouldn't it be magical if chefs **automatically appeared** when it's busy and **went home** when it's quiet?

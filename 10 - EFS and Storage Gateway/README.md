@@ -8,6 +8,14 @@
 
 ---
 
+## EFS Architecture Overview
+
+![EFS Architecture](http://docs.aws.amazon.com/efs/latest/ug/images/overview-flow.png)
+
+> *Multiple EC2 instances can mount and access the same EFS file system simultaneously.*
+
+---
+
 ## What is EFS?
 
 **EFS (Elastic File System)** is AWS's fully managed **Network File System (NFS)**. It provides a shared file system that **multiple EC2 instances can mount simultaneously**.

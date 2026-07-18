@@ -12,7 +12,15 @@
 
 ---
 
-## 📖 What Are ECS, ECR & EKS?
+## ECS Architecture Overview
+
+![ECS Architecture](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/images/ecs-architecture.png)
+
+> *Amazon ECS architecture showing how containers are managed across EC2 instances or Fargate.*
+
+---
+
+## What Are ECS, ECR & EKS?
 
 | Service | Full Name | What It Does |
 |---------|-----------|--------------|

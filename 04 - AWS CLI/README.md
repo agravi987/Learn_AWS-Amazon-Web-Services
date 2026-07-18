@@ -8,6 +8,14 @@
 
 ---
 
+## AWS CLI Architecture Overview
+
+![AWS CLI Architecture](http://docs.aws.amazon.com/cli/latest/userguide/images/cli-architecture.png)
+
+> *AWS CLI translates commands into API calls that interact with AWS services.*
+
+---
+
 ## What is AWS CLI?
 
 AWS CLI is a **command-line tool** that lets you manage AWS services from your terminal instead of the browser console.

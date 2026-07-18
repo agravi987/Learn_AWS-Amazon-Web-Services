@@ -36,6 +36,14 @@ EC2 (Elastic Compute Cloud) is a service that provides **virtual servers** (call
 
 ---
 
+## EC2 Architecture Overview
+
+![EC2 Instance Types](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/instance-types.png)
+
+> *Each EC2 instance type provides a balance of compute, memory, network, and storage resources.*
+
+---
+
 ## How It Works
 
 ```
