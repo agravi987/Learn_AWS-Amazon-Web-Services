@@ -12,11 +12,7 @@
 
 ---
 
-## AWS Organizations Architecture Overview
-
-![AWS Organizations Architecture](http://docs.aws.amazon.com/organizations/latest/userguide/images/org-structure.png)
-
-> *AWS Organizations hierarchy with management account, OUs, and member accounts.*
+## What is AWS Organizations?
 
 ---
 

@@ -8,11 +8,7 @@
 
 ---
 
-## EFS Architecture Overview
-
-![EFS Architecture](http://docs.aws.amazon.com/efs/latest/ug/images/overview-flow.png)
-
-> *Multiple EC2 instances can mount and access the same EFS file system simultaneously.*
+## What is EFS?
 
 ---
 

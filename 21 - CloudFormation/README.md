@@ -12,11 +12,7 @@
 
 ---
 
-## CloudFormation Architecture Overview
-
-![CloudFormation Architecture](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/images/concepts-stack-instance-set.png)
-
-> *CloudFormation templates define your infrastructure, and stacks are the running instances of those templates.*
+## What is CloudFormation?
 
 ---
 

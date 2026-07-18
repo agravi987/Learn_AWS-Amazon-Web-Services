@@ -8,14 +8,6 @@
 
 ---
 
-## Well-Architected Framework Overview
-
-![AWS Well-Architected Framework](http://docs.aws.amazon.com/images/whitepapers/latest/well-architected-tool/images/the-pillars.png)
-
-> *The 6 pillars of the AWS Well-Architected Framework.*
-
----
-
 ## What is the Well-Architected Framework?
 
 It's a **set of 6 best-practice pillars** created by AWS to help you evaluate and improve your cloud architecture. Think of it as a checklist for building systems the right way.

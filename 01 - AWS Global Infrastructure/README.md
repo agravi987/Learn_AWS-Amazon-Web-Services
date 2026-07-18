@@ -8,14 +8,6 @@
 
 ---
 
-## AWS Global Infrastructure Overview
-
-![AWS Global Infrastructure](http://docs.aws.amazon.com/images/whitepapers/latest/aws-overview/images/global-infrastructure.png)
-
-> *AWS has data centers all over the world organized into Regions, Availability Zones, and Edge Locations.*
-
----
-
 ## What is AWS Global Infrastructure?
 
 AWS operates a **global network of data centers** organized into Regions, Availability Zones, and Edge Locations. This is the physical backbone that makes everything else possible.

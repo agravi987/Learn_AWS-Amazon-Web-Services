@@ -8,11 +8,7 @@
 
 ---
 
-## Systems Manager Architecture Overview
-
-![Systems Manager Architecture](http://docs.aws.amazon.com/systems-manager/latest/userguide/images/systems-manager-architecture.png)
-
-> *AWS Systems Manager provides a unified user interface to track and resolve operational issues across your AWS applications and infrastructure.*
+## What is AWS Systems Manager?
 
 ---
 

@@ -8,11 +8,7 @@
 
 ---
 
-## Messaging Architecture Overview
-
-![SNS SQS Architecture](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/images/sqs-overview-of-how-it-works-diagram.png)
-
-> *How SNS and SQS work together for decoupled, event-driven architectures.*
+## What is SNS and SQS?
 
 ---
 

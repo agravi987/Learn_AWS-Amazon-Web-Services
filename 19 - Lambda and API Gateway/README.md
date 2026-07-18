@@ -8,11 +8,7 @@
 
 ---
 
-## Lambda Architecture Overview
-
-![Lambda Architecture](http://docs.aws.amazon.com/lambda/latest/dg/images/lambda-architecture.png)
-
-> *AWS Lambda runs your code in response to events and automatically manages the compute resources.*
+## What is AWS Lambda?
 
 ---
 

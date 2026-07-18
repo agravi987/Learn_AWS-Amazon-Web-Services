@@ -32,10 +32,6 @@
 
 ## KMS Architecture Overview
 
-![KMS Architecture](http://docs.aws.amazon.com/kms/latest/developerguide/images/kms-architecture.png)
-
-> *AWS KMS manages encryption keys and integrates with dozens of AWS services.*
-
 ---
 
 ## What is KMS?

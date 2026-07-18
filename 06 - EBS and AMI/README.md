@@ -6,14 +6,6 @@
 
 ---
 
-## EBS Architecture Overview
-
-![EBS Volume Architecture](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/ebs-architecture.png)
-
-> *EBS volumes are network-attached storage that persist independently of your EC2 instance.*
-
----
-
 ## What is EBS?
 
 Hey Ravi! Ever wished your EC2 instance had its own hard drive that sticks around even after you reboot? That's exactly what **EBS (Elastic Block Store)** is — a virtual hard drive in the cloud that persists data independently of your EC2 instance.
