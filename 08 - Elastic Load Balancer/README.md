@@ -6,14 +6,6 @@
 
 ---
 
-## ALB Architecture Overview
-
-![Application Load Balancer Architecture](http://docs.aws.amazon.com/elasticloadbalancing/latest/application/images/component_architecture.png)
-
-> *The components of a basic Application Load Balancer.*
-
----
-
 ## What is an Elastic Load Balancer?
 
 Hey Ravi! You've got your EC2 instances running, maybe even an Auto Scaling Group. But here's the thing — how do users actually reach those instances? You can't just hand out individual IP addresses to users!

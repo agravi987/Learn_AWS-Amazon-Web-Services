@@ -8,14 +8,6 @@
 
 ---
 
-## CloudWatch Architecture Overview
-
-![CloudWatch Architecture](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/images/CW-Overview.png)
-
-> *Amazon CloudWatch collects metrics, logs, and events from your AWS resources and applications.*
-
----
-
 ## What is CloudWatch?
 
 Hey Ravi! Imagine you're running a restaurant but you have **zero visibility** into what's happening in the kitchen. No temperature gauges, no order tracking, no idea if the fridge is working. Sounds terrifying, right?

@@ -22,14 +22,6 @@
 
 ---
 
-## IAM Security Overview
-
-![IAM Security](http://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/images/sra.png)
-
-> *AWS Security Reference Architecture showing IAM's role in the overall security landscape.*
-
----
-
 ## What is IAM?
 
 IAM (Identity and Access Management) is **AWS's security system**. It controls **who** can access **what** and **what they can do** with those resources.
