@@ -152,6 +152,7 @@ A **beginner-friendly, theory-focused** AWS learning repository designed for:
 
 | Guide | What It Is | When To Use |
 |:------|:-----------|:------------|
+| [🧠 How to Study Effectively](./How-to-Study-Effectively.md) | Proven learning techniques (Feynman, Active Recall, Spaced Repetition) | Before you start studying |
 | [⚡ Cheat Sheet](./Cheat-Sheet.md) | One-page revision of ALL services | 30 min before an interview or exam |
 | [🔄 Services Comparison](./AWS-Services-Comparison.md) | S3 vs EBS vs EFS, RDS vs DynamoDB, etc. | When interviewers ask "X vs Y?" |
 | [🎓 Certification Roadmap](./Certification-Roadmap.md) | Maps topics to AWS certifications | Planning your certification journey |
@@ -213,14 +214,17 @@ A **beginner-friendly, theory-focused** AWS learning repository designed for:
 
 ## 💡 How to Use This Repository
 
-1. **Start from 00** and go in order — don't skip
-2. **Read each README** like a story, not a textbook
-3. **Check the interview questions** at the end of each topic
-4. **Use the [Cheat Sheet](./Cheat-Sheet.md)** for quick revision before interviews
-5. **Check [Service Comparisons](./AWS-Services-Comparison.md)** when interviewers ask "X vs Y?"
-6. **Revisit topics** when you forget — that's normal
-7. **Build the hands-on labs** in a separate repo after understanding concepts
-8. **Check the [Certification Roadmap](./Certification-Roadmap.md)** when you're ready for AWS certs
+1. **Read the [Study Guide](./How-to-Study-Effectively.md) FIRST** — learn HOW to study before WHAT to study
+2. **Start from 00** and go in order — don't skip
+3. **Read each README** like a story, not a textbook
+4. **Do the Feynman Test** — explain each concept out loud in simple words
+5. **Answer the "Think About It" prompts** — test yourself actively
+6. **Learn from Interview Traps** — know what NOT to say
+7. **Use the [Cheat Sheet](./Cheat-Sheet.md)** for quick revision before interviews
+8. **Check [Service Comparisons](./AWS-Services-Comparison.md)** when interviewers ask "X vs Y?"
+9. **Revisit topics** using spaced repetition (see study guide)
+10. **Build hands-on labs** in a separate repo after understanding concepts
+11. **Check the [Certification Roadmap](./Certification-Roadmap.md)** when ready for AWS certs
 
 ---
 
